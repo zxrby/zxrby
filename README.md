@@ -4,7 +4,7 @@
   
 
 Contact me on Discord! 
-_sorbi https://skillicons.dev/icons?i=discord
+_sorbi 
 
 
 
