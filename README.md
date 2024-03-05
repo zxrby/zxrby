@@ -4,8 +4,8 @@
   
 
 Contact me on Discord! 
-_sorbi  
-https://github-readme-stats.vercel.app/api?username=zxrby&show_icons=true&bg_color=00000000
+_sorbi https://skillicons.dev/icons?i=discord)](https://skillicons.dev
+
 
 
 <br/>  
